@@ -36,9 +36,7 @@ namespace BioHealthy.Models
         [Column("date(15)")]
         [DisplayName("Fecha")]
         public DateTime Fecha { get; set; }
-        [Column("date(10)")]
-        [DisplayName("Hora")]
-        public DateTime Hora { get; set; }
+        
 
     }
 }
