@@ -53,7 +53,7 @@ namespace BioHealthy.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("EmpleadoId,Apellidos,Nombre,Documento,Cargo,Ciudad,Fecha,Hora")] Empleado empleado)
+        public async Task<IActionResult> AgregarOEditar([Bind("EmpleadoId,Apellidos,Nombre,Documento,Cargo,Ciudad,Fecha,Hora")] Empleado empleado)
         {
             if (ModelState.IsValid)
             {

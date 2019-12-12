@@ -77,9 +77,7 @@ C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\BioHealthy.TagHelpers.input.cache
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\BioHealthy.TagHelpers.output.cache
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\BioHealthy.RazorCoreGenerate.cache
-C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\Delete.cshtml.g.cs
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\Details.cshtml.g.cs
-C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\Edit.cshtml.g.cs
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\Index.cshtml.g.cs
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs

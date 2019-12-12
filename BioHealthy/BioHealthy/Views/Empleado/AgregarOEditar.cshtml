@@ -6,10 +6,10 @@
 
 
 
-<h4>Empleado Form</h4>
+<h4>Empleado</h4>
 <hr />
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
         <form asp-action="AgregarOEditar">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -17,7 +17,6 @@
                 <input asp-for="Apellidos" class="form-control" />
                 <span asp-validation-for="Apellidos" class="text-danger"></span>
             </div>
-			<div class="form-row"
             <div class="form-group">
                 <label asp-for="Nombre" class="control-label"></label>
                 <input asp-for="Nombre" class="form-control" />
@@ -38,26 +37,25 @@
                 <input asp-for="Ciudad" class="form-control" />
                 <span asp-validation-for="Ciudad" class="text-danger"></span>
             </div>
-            <div class="form-group col-md-6">
+            <div class="form-group">
                 <label asp-for="Fecha" class="control-label"></label>
                 <input asp-for="Fecha" class="form-control" />
                 <span asp-validation-for="Fecha" class="text-danger"></span>
             </div>
-            </div>
-			<div class="form-group">
+            <div class="form-group">
                 <label asp-for="Hora" class="control-label"></label>
                 <input asp-for="Hora" class="form-control" />
                 <span asp-validation-for="Hora" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-default" />
+                <input type="submit" value="Guardar" class="btn btn-default" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Volver a la Lista</a>
 </div>
 
 @section Scripts {

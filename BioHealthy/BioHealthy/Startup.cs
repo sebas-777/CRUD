@@ -35,7 +35,8 @@ namespace BioHealthy
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            var connection = @"server=localhost;DataBase=BioHealthy;User ID=ACADEMICO/501; Password=cesde; Trusted_Connection=True; ConnectRetryCount=0";
+            var connection = @"server=localhost;DataBase=BioHealthy;User ID=DESKTOP-8FS9GSL; Trusted_Connection=True; ConnectRetryCount=0";
+            // var connection = @"server=localhost;DataBase=BioHealthy;User ID=ACADEMICO/501; Password=cesde; Trusted_Connection=True; ConnectRetryCount=0";
             services.AddDbContext<EmpleadosContext>(option => option.UseSqlServer(connection));
 
 
