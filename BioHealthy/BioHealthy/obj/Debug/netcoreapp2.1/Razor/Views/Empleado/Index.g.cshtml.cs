@@ -128,7 +128,7 @@ using BioHealthy.Models;
             WriteLiteral("\r\n            </th>\r\n            \r\n            <th> \r\n            ");
             EndContext();
             BeginContext(832, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46a2f172a75f4499a92c570a340f2d2f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6acfa6945d2f40759db65dc0f6502f5c", async() => {
                 BeginContext(887, 36, true);
                 WriteLiteral("<i class=\"fas fa-plus\"></i> Registro");
                 EndContext();
@@ -219,7 +219,7 @@ using BioHealthy.Models;
             WriteLiteral("\r\n            </td>\r\n            \r\n            <td>\r\n                ");
             EndContext();
             BeginContext(1670, 84, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a594cf6d88ea4ad89de2ce428a5f2805", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8181172545d949cea3420be379fc4166", async() => {
                 BeginContext(1723, 27, true);
                 WriteLiteral("<i class=\"fas fa-edit\"></i>");
                 EndContext();
@@ -254,7 +254,7 @@ using BioHealthy.Models;
             WriteLiteral(" \r\n                ");
             EndContext();
             BeginContext(1773, 87, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "139f92b4f406434ea9b95dbaab940900", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f262ebd60444cdca4e8958f679393f0", async() => {
                 BeginContext(1829, 27, true);
                 WriteLiteral("<i class=\"fas fa-info\"></i>");
                 EndContext();
@@ -289,7 +289,7 @@ using BioHealthy.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1880, 156, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a60938e24cd2497d8a365cd9a54f09ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "91b02d1ae07e48fbaca8f18c8db527f7", async() => {
                 BeginContext(2000, 32, true);
                 WriteLiteral("<i class=\"fas fa-trash-alt\"></i>");
                 EndContext();
