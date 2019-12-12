@@ -96,3 +96,5 @@ C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\BioHealthy.pdb
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\BioHealthy.csproj.CopyComplete
 C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\AgregarOEditar.cshtml.g.cs
+C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Shebas\Desktop\WepApi\CRUD\BioHealthy\BioHealthy\obj\Debug\netcoreapp2.1\Razor\Views\Empleado\Edit.cshtml.g.cs
