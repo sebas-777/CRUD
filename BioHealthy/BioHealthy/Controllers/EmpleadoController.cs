@@ -43,9 +43,9 @@ namespace BioHealthy.Controllers
         }
 
         // GET: Empleado/Create
-        public IActionResult Create()
+        public IActionResult AgregarOEditar(int id=0)
         {
-            return View();
+            return View(new Empleado());
         }
 
         // POST: Empleado/Create

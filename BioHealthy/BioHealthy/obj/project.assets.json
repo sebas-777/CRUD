@@ -12530,27 +12530,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\501.ACADEMICOS\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Shebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\501.ACADEMICOS\\Desktop\\biohealthywebApi\\CRUD\\BioHealthy\\BioHealthy\\BioHealthy.csproj",
+      "projectUniqueName": "C:\\Users\\Shebas\\Desktop\\WepApi\\CRUD\\BioHealthy\\BioHealthy\\BioHealthy.csproj",
       "projectName": "BioHealthy",
-      "projectPath": "C:\\Users\\501.ACADEMICOS\\Desktop\\biohealthywebApi\\CRUD\\BioHealthy\\BioHealthy\\BioHealthy.csproj",
-      "packagesPath": "C:\\Users\\501.ACADEMICOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\501.ACADEMICOS\\Desktop\\biohealthywebApi\\CRUD\\BioHealthy\\BioHealthy\\obj\\",
+      "projectPath": "C:\\Users\\Shebas\\Desktop\\WepApi\\CRUD\\BioHealthy\\BioHealthy\\BioHealthy.csproj",
+      "packagesPath": "C:\\Users\\Shebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shebas\\Desktop\\WepApi\\CRUD\\BioHealthy\\BioHealthy\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\501.ACADEMICOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Shebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -12589,6 +12582,7 @@
             "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -12599,10 +12593,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

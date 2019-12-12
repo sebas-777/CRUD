@@ -10,3 +10,7 @@ BioHealthy/BioHealthy/obj/BioHealthy.csproj.nuget.g.props
 BioHealthy/BioHealthy/obj/Debug/netcoreapp2.1/BioHealthy.assets.cache
 BioHealthy/BioHealthy/obj/Debug/netcoreapp2.1/BioHealthy.csproj.FileListAbsolute.txt
 BioHealthy/BioHealthy/obj/Debug/netcoreapp2.1/BioHealthy.csprojAssemblyReference.cache
+BioHealthy/.vs/BioHealthy/v16/Server/sqlite3/db.lock
+BioHealthy/.vs/BioHealthy/v16/Server/sqlite3/storage.ide
+BioHealthy/.vs/BioHealthy/v16/Server/sqlite3/storage.ide-shm
+BioHealthy/.vs/BioHealthy/v16/Server/sqlite3/storage.ide-wal
